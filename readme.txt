@@ -4,4 +4,4 @@ Creating a new branch is quick.
 add Fu  nnn 
 change 
 same change
-push origin deb
+push origin DEB
